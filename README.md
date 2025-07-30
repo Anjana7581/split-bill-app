@@ -100,14 +100,4 @@ All AI-generated suggestions were fully understood, reviewed, and adapted by me 
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
 
----
-
-### ✅ What to do next:
-- Replace `your-username` with your GitHub username.
-- Add real screenshots if you like.
-- If your project uses seeders, auth, or more features, I can update this too.
-
-Let me know if you want a version with badges or a more styled one (like emojis, sections, collapsible details).
-```
